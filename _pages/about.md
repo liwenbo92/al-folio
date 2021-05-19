@@ -1,6 +1,6 @@
 ---
 layout: about
-title: About
+title: about
 permalink: /
 description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Address: F225 Walters Academic Building</p>
+    <p>Office: F225 Walters Academic Building</p>
     <p>University of Tennessee</p>
     <p>Knoxville, TN 37996</p>
 

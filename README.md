@@ -1,3 +1,7 @@
+# for myself:
+To test pages on your local machine: bundle exec jekyll serve (after the first time, just need to run "jekyll serve" command)
+To cutomize the header of the page, change settings in the header.html file.
+
 # al-folio
 
 [![build status](https://travis-ci.org/alshedivat/al-folio.svg?branch=master)](https://travis-ci.org/alshedivat/al-folio)
